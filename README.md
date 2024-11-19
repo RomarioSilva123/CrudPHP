@@ -1,6 +1,7 @@
 # CrudPHP
 trabalho do curso técnico de informática
-Otrabalho proposto teve como principal tema um cadastro de usuário e um cadastro de
+
+ O trabalho proposto teve como principal tema um cadastro de usuário e um cadastro de
  produto,tendo em vista que seria uma espécie de sistema de supermercado onde o
  usuário irá digitar os seus dados para que logo depois,as suas informações sejam
  armazenadas no banco de dados,tendo isso em mente,os dados que serão
