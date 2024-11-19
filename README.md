@@ -11,7 +11,7 @@ trabalho do curso técnico de informática
  estabelecimento conseguiriam acessar,tendo em vista que eles e somente eles
  poderiam visualizar e cadastrar os produtos dentro do banco de dados,esses produtos
  também iriam ter alguns parâmetros para que fosse possível o cadastramento dentro
- do banco de dados,são elas nome do produto,preço e data de validade,agora falando
+ do banco de dados,são elas id do produto,nome do produto,preço e data de validade,agora falando
  mais um pouco do sistema e do código em questão,no banco de dados e criado dois
  bancos,um para a inserção de usuários e outro para a inserção de produtos onde
  ambos terão seus campos que serão responsáveis por guardar os valores
